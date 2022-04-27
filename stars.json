@@ -1,14 +1,14 @@
 [
   {
     "full_name": "flekschas/svelte-simple-modal",
-    "stargazers_count": 281,
+    "stargazers_count": 284,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "tc39/proposal-decorators",
-    "stargazers_count": 2030,
-    "open_issues_count": 29,
+    "stargazers_count": 2033,
+    "open_issues_count": 23,
     "forks_count": 94
   },
   {
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "silviogutierrez/reactivated",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 12,
     "forks_count": 5
   },
   {
     "full_name": "Frezyx/sidebarx",
-    "stargazers_count": 40,
+    "stargazers_count": 47,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "BraisC/react-text-typist",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "uiwjs/react-textarea-code-editor",
-    "stargazers_count": 141,
+    "stargazers_count": 144,
     "open_issues_count": 17,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "heyitsarpit/react-hooks-library",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "themsaid/ibis",
-    "stargazers_count": 1474,
+    "stargazers_count": 1475,
     "open_issues_count": 21,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "WinterCore/react-text-transition",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 14,
     "forks_count": 9
   },
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "oclif/oclif",
-    "stargazers_count": 7312,
-    "open_issues_count": 184,
-    "forks_count": 241
+    "stargazers_count": 7326,
+    "open_issues_count": 183,
+    "forks_count": 242
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 10263,
-    "open_issues_count": 33,
-    "forks_count": 541
+    "stargazers_count": 10373,
+    "open_issues_count": 28,
+    "forks_count": 552
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1303,
+    "stargazers_count": 1306,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18196,
+    "stargazers_count": 18234,
     "open_issues_count": 78,
     "forks_count": 497
   },
@@ -147,13 +147,13 @@
     "full_name": "Mindinventory/progressive_time_picker",
     "stargazers_count": 37,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "SimformSolutionsPvtLtd/flutter_calendar_view",
-    "stargazers_count": 137,
-    "open_issues_count": 21,
-    "forks_count": 43
+    "stargazers_count": 138,
+    "open_issues_count": 23,
+    "forks_count": 45
   },
   {
     "full_name": "TerenYeung/flutter_im_kit",
