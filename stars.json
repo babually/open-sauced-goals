@@ -1,13 +1,13 @@
 [
   {
     "full_name": "flekschas/svelte-simple-modal",
-    "stargazers_count": 284,
+    "stargazers_count": 285,
     "open_issues_count": 7,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "tc39/proposal-decorators",
-    "stargazers_count": 2033,
+    "stargazers_count": 2037,
     "open_issues_count": 23,
     "forks_count": 94
   },
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "M0kY/react-form-stepper",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 15,
     "forks_count": 11
   },
   {
     "full_name": "silviogutierrez/reactivated",
-    "stargazers_count": 208,
+    "stargazers_count": 210,
     "open_issues_count": 12,
     "forks_count": 5
   },
   {
     "full_name": "Frezyx/sidebarx",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "uiwjs/react-textarea-code-editor",
-    "stargazers_count": 144,
+    "stargazers_count": 146,
     "open_issues_count": 17,
     "forks_count": 7
   },
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "themsaid/ibis",
-    "stargazers_count": 1475,
+    "stargazers_count": 1476,
     "open_issues_count": 21,
     "forks_count": 107
   },
   {
     "full_name": "WinterCore/react-text-transition",
     "stargazers_count": 294,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 9
   },
   {
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "oclif/oclif",
-    "stargazers_count": 7326,
-    "open_issues_count": 183,
+    "stargazers_count": 7335,
+    "open_issues_count": 184,
     "forks_count": 242
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 10373,
-    "open_issues_count": 28,
-    "forks_count": 552
+    "stargazers_count": 10439,
+    "open_issues_count": 30,
+    "forks_count": 559
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1306,
+    "stargazers_count": 1307,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18234,
+    "stargazers_count": 18279,
     "open_issues_count": 78,
     "forks_count": 497
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "teafuljs/teaful",
-    "stargazers_count": 626,
+    "stargazers_count": 627,
     "open_issues_count": 18,
     "forks_count": 19
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Frezyx/group_button",
-    "stargazers_count": 90,
+    "stargazers_count": 92,
     "open_issues_count": 7,
     "forks_count": 20
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "SimformSolutionsPvtLtd/flutter_calendar_view",
-    "stargazers_count": 138,
-    "open_issues_count": 23,
-    "forks_count": 45
+    "stargazers_count": 139,
+    "open_issues_count": 25,
+    "forks_count": 46
   },
   {
     "full_name": "TerenYeung/flutter_im_kit",
