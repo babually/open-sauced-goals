@@ -1,13 +1,13 @@
 [
   {
     "full_name": "flekschas/svelte-simple-modal",
-    "stargazers_count": 292,
-    "open_issues_count": 3,
+    "stargazers_count": 293,
+    "open_issues_count": 5,
     "forks_count": 22
   },
   {
     "full_name": "tc39/proposal-decorators",
-    "stargazers_count": 2058,
+    "stargazers_count": 2064,
     "open_issues_count": 24,
     "forks_count": 95
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakelazaroff/radish",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "silviogutierrez/reactivated",
-    "stargazers_count": 213,
+    "stargazers_count": 215,
     "open_issues_count": 13,
     "forks_count": 6
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "uiwjs/react-textarea-code-editor",
-    "stargazers_count": 156,
-    "open_issues_count": 15,
+    "stargazers_count": 159,
+    "open_issues_count": 16,
     "forks_count": 8
   },
   {
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "WinterCore/react-text-transition",
-    "stargazers_count": 295,
-    "open_issues_count": 15,
-    "forks_count": 9
+    "stargazers_count": 296,
+    "open_issues_count": 16,
+    "forks_count": 10
   },
   {
     "full_name": "itsrennyman/react-plock",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "oclif/oclif",
-    "stargazers_count": 7353,
+    "stargazers_count": 7356,
     "open_issues_count": 191,
     "forks_count": 243
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 10774,
-    "open_issues_count": 31,
-    "forks_count": 583
+    "stargazers_count": 10844,
+    "open_issues_count": 35,
+    "forks_count": 593
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1316,
+    "stargazers_count": 1322,
     "open_issues_count": 6,
     "forks_count": 38
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18362,
+    "stargazers_count": 18390,
     "open_issues_count": 79,
-    "forks_count": 498
+    "forks_count": 500
   },
   {
     "full_name": "arcticfox1919/eblox",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "teafuljs/teaful",
-    "stargazers_count": 631,
+    "stargazers_count": 632,
     "open_issues_count": 18,
     "forks_count": 19
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Frezyx/group_button",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 8,
     "forks_count": 21
   },
