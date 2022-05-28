@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tc39/proposal-decorators",
-    "stargazers_count": 2081,
-    "open_issues_count": 24,
-    "forks_count": 95
+    "stargazers_count": 2083,
+    "open_issues_count": 25,
+    "forks_count": 97
   },
   {
     "full_name": "mehedidew/internet_popup",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "jakelazaroff/radish",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "silviogutierrez/reactivated",
-    "stargazers_count": 217,
+    "stargazers_count": 220,
     "open_issues_count": 13,
     "forks_count": 6
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "uiwjs/react-textarea-code-editor",
-    "stargazers_count": 170,
-    "open_issues_count": 18,
+    "stargazers_count": 172,
+    "open_issues_count": 17,
     "forks_count": 9
   },
   {
@@ -73,26 +73,26 @@
   },
   {
     "full_name": "itsrennyman/react-plock",
-    "stargazers_count": 100,
-    "open_issues_count": 3,
+    "stargazers_count": 102,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "oclif/oclif",
-    "stargazers_count": 7391,
-    "open_issues_count": 195,
+    "stargazers_count": 7397,
+    "open_issues_count": 194,
     "forks_count": 245
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 11142,
-    "open_issues_count": 42,
-    "forks_count": 619
+    "stargazers_count": 11238,
+    "open_issues_count": 43,
+    "forks_count": 627
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 1331,
-    "open_issues_count": 6,
+    "stargazers_count": 1332,
+    "open_issues_count": 7,
     "forks_count": 38
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 18447,
-    "open_issues_count": 79,
-    "forks_count": 500
+    "stargazers_count": 18466,
+    "open_issues_count": 80,
+    "forks_count": 501
   },
   {
     "full_name": "arcticfox1919/eblox",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Frezyx/group_button",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 8,
     "forks_count": 22
   },
@@ -153,7 +153,7 @@
     "full_name": "SimformSolutionsPvtLtd/flutter_calendar_view",
     "stargazers_count": 144,
     "open_issues_count": 30,
-    "forks_count": 51
+    "forks_count": 53
   },
   {
     "full_name": "TerenYeung/flutter_im_kit",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "welitonsousa/native_auth",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -177,6 +177,6 @@
     "full_name": "babstrap/babstrap_settings_screen",
     "stargazers_count": 5,
     "open_issues_count": 4,
-    "forks_count": 4
+    "forks_count": 5
   }
 ]
